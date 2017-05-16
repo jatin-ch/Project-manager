@@ -1,5 +1,7 @@
 Project Name : - Project manager
 
+*Technology used: Node js & Mongo DB
+
 Pre Requisite :-
 
 * ONLY FOR JIIT STUDENTS.
