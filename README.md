@@ -17,5 +17,5 @@ For Ubuntu user:-
 7) Open another terminal and run the main file of project -
    command: nodemon minor/mool.js		
 8) Open this link in your browser "localhost:3000".
-9) You can directly sigin.
+9) You can directly Sign In.
 7) Use the application.
